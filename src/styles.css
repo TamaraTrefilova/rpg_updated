@@ -1,0 +1,22 @@
+
+#submit_calculator, .title{
+  text-align: center;
+}
+
+#output{
+  display:none;
+}
+
+body{
+  background-color: #98AFC7;
+}
+
+
+.sbt-button{
+  margin-top: 50px;
+}
+
+
+#output_result{
+  color: red;
+}
